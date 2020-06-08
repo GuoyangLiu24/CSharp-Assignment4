@@ -1,0 +1,39 @@
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\Baseball.mdf
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\Baseball_log.ldf
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.xml
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\Baseball.mdf
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\Baseball_log.ldf
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.xml
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\Baseball.mdf
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\Baseball_log.ldf
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.dll
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.xml
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CopyComplete
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_COMP212_Lab04\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

@@ -1,0 +1,38 @@
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Guoyang-Liu_Sec003_Exercise02.exe.config
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Guoyang-Liu_Sec003_Exercise02.exe
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Guoyang-Liu_Sec003_Exercise02.pdb
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang_Liu_Sec003_Exercise02.Properties.Resources.resources
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang_Liu_Sec003_Exercise02.Search.resources
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.csproj.GenerateResource.cache
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.exe
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.pdb
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Baseball.mdf
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Baseball_log.ldf
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\ClassLibrary2.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.SqlServer.dll
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\ClassLibrary2.pdb
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\ClassLibrary2.dll.config
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.xml
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.SqlServer.xml
+E:\SET2019\S4\1.Programming 3\Lecture\W8\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.csproj.CopyComplete
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Baseball.mdf
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Baseball_log.ldf
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Guoyang-Liu_Sec003_Exercise02.exe.config
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Guoyang-Liu_Sec003_Exercise02.exe
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\Guoyang-Liu_Sec003_Exercise02.pdb
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\ClassLibrary2.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\ClassLibrary2.pdb
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\ClassLibrary2.dll.config
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.xml
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.csprojAssemblyReference.cache
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang_Liu_Sec003_Exercise02.Properties.Resources.resources
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang_Liu_Sec003_Exercise02.Search.resources
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.csproj.GenerateResource.cache
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.csproj.CopyComplete
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.exe
+C:\Users\35063\Downloads\Guoyang-Liu_Sec003_COMP212_Lab04\Guoyang-Liu_Sec003_Exercise02\obj\Debug\Guoyang-Liu_Sec003_Exercise02.pdb
